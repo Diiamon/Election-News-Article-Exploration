@@ -17,7 +17,7 @@
 
 ## Project Overview
 
-This project focuses on detecting and visualizing potential bias in news articles related to the 2024 UK election. By employing data scraping, cleaning, sentiment analysis, and visualization techniques, we aim to develop a comprehensive dataset and analysis that highlight bias trends across various news sources.
+This project focuses on detecting and visualising potential bias in news articles related to the 2024 UK election. By employing data scraping, cleaning, sentiment analysis, and visualization techniques, we aim to develop a comprehensive dataset and analysis that highlight bias trends across various news sources.
 
 ## Features
 
