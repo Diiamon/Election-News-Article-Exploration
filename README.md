@@ -119,7 +119,7 @@ Sentiment analysis workflow includes:
 
 Data prepared for visualization is saved in CSV files and imported into Tableau for detailed bias analysis. Visualisations include topic frequencies, sentiment distribution, and source bias.
 
-The visualisation can be seen through Tableau Public here : [Bias Presentation]('https://public.tableau.com/shared/H2XQ2YXFM?:display_count=n&:origin=viz_share_link')
+The visualisation can be seen through Tableau Public here : ['Bias Presentation']('https://public.tableau.com/shared/H2XQ2YXFM?:display_count=n&:origin=viz_share_link')
 
 ## Contributing
 
