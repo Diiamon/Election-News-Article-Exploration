@@ -1,0 +1,181 @@
+author_id,author
+176,Twm Owen
+115,Morgan Carmichael
+134,Peter Walker
+157,Sandra Laville
+109,Matt Mathers
+161,Sophie Wingate
+143,Richard Wheeler
+130,PA Political Staff
+68,James Cheng-Morris
+179,kieran crichard
+7,Alex Ross
+39,David Maddox
+63,Holly Evans
+55,Guardian community team
+19,Archie Mitchell
+41,Dominic Penna
+72,James Walker
+11,Amy Gibbons
+146,Rob Waugh
+158,Simon Calder
+82,Jody Harrison
+42,Edward Malnick
+124,Ollie Corfe
+91,Kate Nicholson
+2,Albert Tait
+120,Nick Gutteridge
+77,Jessica Murray
+92,Kevin Schofield
+14,Andy Gregory
+66,Jabed Ahmed
+3,Albert Toth
+24,Ben Riley-Smith
+133,Patrick O'Flynn
+28,Charles Hymas
+168,The Independent
+10,Alicja Hagopian
+160,Sky News
+90,Kate Devlin
+31,Charlotte Lytton
+170,Tim Stanley
+12,Amy-Clare Martin
+95,Lauren Shirreff
+171,Timothy Sigsworth
+65,Independent
+64,Ian Jones
+125,PA
+155,Salma Ouaguira
+4,Aletha Adu
+159,Simon Johnson
+46,Ellen Manning
+151,Ross McGuinness
+56,Hamish Morrison
+75,Jessica Elgot
+61,Henry Dyer
+123,Oliver Browning
+54,Gregor Young
+167,Telegraph reporters
+67,Jack Maidment
+15,Andy Wells
+30,Charlotte Gifford
+73,Jennifer Rankin
+100,Louis Chilton
+69,James Hockaday
+88,Justin McCurry in Tokyo
+45,Ella Pickover
+127,PA Health Correspondent
+80,Jimmy Nsubuga
+178,Will Hazell
+119,Nicholas Cecil
+98,Liam Fox
+48,Emma Gatten
+110,Matthew Weaver
+138,Pippa Crerar
+84,Joe Sullivan
+34,Daniel Martin
+53,Gordon Rayner
+8,Alexander Butler
+97,Letters to the Editor
+32,Dan Sabbagh
+78,Jim Waterson
+135,Peter Walker Senior political correspondent
+152,Rowena Mason
+23,Ben Quinn
+164,Szu Ping Chan
+38,David Lynch
+142,Rhiannon James
+58,Hannah Fearn
+13,Andrew Naughtie
+29,Charles Moore
+81,Jitendra Joshi
+140,Rachael Healy
+156,Sami Quadri
+9,Alexander Larman
+145,Rob Freeman
+172,Toby Helm
+137,Phillip Inman
+169,The Telegraph
+111,Michael Savage Policy Editor
+26,Camilla Turner
+35,Daniel Sanderson
+51,Genevieve Holl-Allen
+44,Eleni Courea
+175,Tom Watling
+71,James Titcomb
+60,Heather Stewart
+121,Nicole Mitchell
+37,David Hughes
+129,PA Political Editor
+79,Jim Waterson Political media editor
+166,Telegraph View
+162,Stewart Paterson
+153,Rupert Neate
+144,Rob Davies
+0,Alan Cochrane
+43,Elen Johnston
+114,Miriam Cates
+113,Miriam Burrell
+139,Rachael Burford
+18,Annabel Nugent
+49,Fran Ivens
+177,Vikram Dodd
+74,Jeremy Warner
+108,Maryam Zakir-Hussain
+148,Robert Dex
+17,Ann Fotheringham
+165,Tara Cobham
+52,Geordie Greig
+173,Tom Barnes
+107,Martin Howe
+96,Letter
+147,Robert Booth Social affairs correspondent
+21,Athena Stavrou
+47,Ellen Murphy
+112,Michael Searles
+132,Patrick Barlow
+116,Nadeem Badshah
+5,Aletha Adu Political correspondent
+76,Jessica Elgot Deputy political editor
+36,Daniel Woolfson
+6,Alex Barton
+174,Tom Harris
+106,Martin Evans
+87,Jonathan Leake
+59,Harriet Sinclair
+163,Stuart Heritage
+25,Ben Wilkinson
+126,PA Deputy Political Editor
+33,Daniel Boffey in Hull
+16,Angelique Chrisafis in Paris
+89,Kamal Ahmed
+154,Ryan McDougall
+40,Diane Taylor
+85,Jon Henley
+20,Ashifa Kassam
+70,James Rothwell
+94,LaToya Harding
+50,Gabriel McKay
+122,Nina Lloyd
+128,PA Political Correspondent
+149,Robert Ford
+86,Jon Henley Europe correspondent
+99,Lisa O'Carroll
+27,Caroline Bannock
+141,Rachel Obordo
+150,Robyn Vinter
+117,Nadine White
+103,Lucy Leeson
+101,Lucy Hunt
+104,Madeleine Ross
+62,Henry Samuel
+22,Barney Davis
+118,Neil Pooran
+131,PA Scotland Political Correspondent
+83,Joe Dawson
+93,Kiran Stacey
+57,Hamish de Bretton-Gordon
+136,Philip Johnston
+105,Marina Hyde
+102,Lucy Jackson
+1,Alasdair Ferguson

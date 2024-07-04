@@ -1,0 +1,15 @@
+Source,Source_id,image
+South Wales Argus,6,https://www.southwalesargus.co.uk/resources/images/small_site_logo/
+Glasgow Times,1,https://www.glasgowtimes.co.uk/resources/images/small_site_logo/
+The Guardian,8,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Guardian_2018.svg/350px-The_Guardian_2018.svg.png
+The Independent,9,https://upload.wikimedia.org/wikipedia/en/thumb/4/40/The_Independent_news_logo.svg/350px-The_Independent_news_logo.svg.png
+PA Media: UK News,4,https://upload.wikimedia.org/wikipedia/en/a/a1/PA_Media_logo.png
+Yahoo News UK,13,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yahoo_news_logo.svg/350px-Yahoo_news_logo.svg.png
+The Telegraph,11,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Telegraph.svg/250px-The_Telegraph.svg.png
+The National,10,https://the-national-shop.myshopify.com/cdn/shop/files/THE_NATIONAL_MAST.png?height=628&pad_color=fff&v=1688573639&width=1200
+Herald Scotland,2,https://www.heraldscotland.com/resources/images/small_site_logo/
+HuffPost UK,3,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HuffPost.svg/350px-HuffPost.svg.png
+Sky News,5,https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/350px-Sky_News_logo.svg.png
+Evening Standard,0,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Evening_Standard_logo.png/350px-Evening_Standard_logo.png
+The Argus,7,https://www.theargus.co.uk/resources/images/small_site_logo/
+Yahoo Finance UK,12,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yahoo%21_Finance_logo_2021.png/250px-Yahoo%21_Finance_logo_2021.png
