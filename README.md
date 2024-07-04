@@ -1,4 +1,4 @@
-# Analyzing Bias in 2024 UK Election News Articles
+# Analysing Bias in 2024 UK Election News Articles
 
 ## Table of Contents
 
@@ -115,7 +115,7 @@ Sentiment analysis workflow includes:
 - **Sentiment Labeling:** Assigning positive, negative, or neutral labels to articles.
 - **Quality Checks:** Ensuring accuracy through random checks and validations.
 
-## Visualization
+## Visualisation
 
 Data prepared for visualization is saved in CSV files and imported into Tableau for detailed bias analysis. Visualisations include topic frequencies, sentiment distribution, and source bias.
 
