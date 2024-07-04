@@ -92,7 +92,7 @@ A combination of web scraping techniques was used to collect news articles from 
 
 ## Data Cleaning and Preparation
 
-Our data cleaning process involves:
+Data cleaning process involves:
 
 - **Text Cleaning:** Removing URLs, email addresses, and other unwanted elements.
 - **Tokenization:** Splitting text into individual words and removing stopwords.
