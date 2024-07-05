@@ -10,7 +10,7 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Topic Handling Process](#topic-handling-process)
 - [Sentiment Analysis](#sentiment-analysis)
-- [Visualization](#visualization)
+- [Visualisation](#visualisation)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
